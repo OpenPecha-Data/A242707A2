@@ -1,0 +1,25 @@
+segment_sources:
+  P00601791:
+    type: origin_type
+    relation: translation
+    language: en
+  PA24CCDA9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f0ef1b807e2045bfa7fe1463d53ac19f:
+    P00601791: 620244ca46394c92b121cd07f3419a64
+    PA24CCDA9: 31bd817c7e924239a5a7ca20b7a0b6d0
+  0880967fbaf94308b23a6fcd7932c849:
+    P00601791: bf6849a69e0547eeb7945f66276ef64d
+    PA24CCDA9: de0cccc37e304245aa8c45443c99387d
+  071e9943ca6a4888ad6916e09a8721a2:
+    P00601791: 3095632f3ea14fd9ab9504d865418214
+    PA24CCDA9: 6f0b973440b84d71962b8e7e7632d114
+  8f7eb1cd5fbe4751b46ef38c81c5c444:
+    P00601791: da6f885663074a82a555c38c6a61ca6a
+    PA24CCDA9: 24f55f0d1e034b158bb8b9932f696713
+  f528223d8b5a46daaca44a0c148acf9c:
+    P00601791: fa8299697b2943959d22781435c6a9d8
+    PA24CCDA9: bea3f9459485474fbba72332182e9ad6

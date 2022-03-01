@@ -1,0 +1,33 @@
+segment_sources:
+  P00601791:
+    type: origin_type
+    relation: translation
+    language: en
+  PAD43D7EA:
+    type: origin_type
+    relation: translation
+    language: es
+  PD47D2CAD:
+    type: origin_type
+    relation: translation
+    language: fr
+  PA24CCDA9:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  97c19c5215da4920922635f354a5bd60:
+    P00601791: 151f5479fa43495589415c8ed86b68dd
+    PAD43D7EA: 80fcc621df294b95a8f3d18e8d279402
+    PD47D2CAD: 5f71a2a4456845da8c03aac307894186
+    PA24CCDA9: 31771d52e7994df1b86563ec4fde2b76
+  ddde47d5959540f39633b60e8f525bd4:
+    P00601791: ee59d649c6f54b6da8645e9aa2e6c611
+    PAD43D7EA: b6700845a65a4f45b14d31ba0d201886
+    PD47D2CAD: 2be38fb9d3d44c369d335c3e1048150f
+    PA24CCDA9: 1e696a15746d4457836b6dcb08320318
+  46c2aff20008479bba42dade235c1c66:
+    P00601791: 4ff9f40c2d2349b090d2ff4cacb8a6ca
+    PAD43D7EA: d8d6e534c0904246a2d069e3089a6f17
+    PD47D2CAD: 721a201691644a5783262756c044c5be
+    PA24CCDA9: 613a19e845a844f0b570854839845bb8
